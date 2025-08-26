@@ -10,9 +10,3 @@ This project is a basic Spring Boot application that demonstrates CRUD operation
 - MySQL / H2 (change as needed)
 - Swagger (Springdoc OpenAPI)
 - Spring Boot Actuator
-
-##Swagger docs
-- Swagger UI is available at:
-  🔗 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-  OR
-  🔗 [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
